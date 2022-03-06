@@ -6,9 +6,9 @@ You have to input the amount of the product and hit "Calculeaza" button. If you 
 The search option helps you to find the product faster. If the product is found you can modify it's amount, otherwise you get some suggestions about the products that you may want to find. 
 
 Python packages:
-	- mysql connector
-	- kivy
-	- functools
+- mysql connector
+- kivy
+- functools
   
 If you want to run the app using the database you must download and import it!
 Open database.py and modify the fields: host, user, password, database (name of the database in your mysql)
