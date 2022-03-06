@@ -1,4 +1,4 @@
-# Android/Desktop Applicaation - Kivy(Python)
+# Android/Desktop Application - Kivy(Python)
 Great when it comes to find out the amount of calcium/vitamin c/phosphorus contained by different products. It offers a very helpful search option to make user experience better.
 
 This app calculate for you the amount of calcium, vitamin c and phosphorus that are contained in a product.
